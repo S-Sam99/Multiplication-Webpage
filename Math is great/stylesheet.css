@@ -1,0 +1,26 @@
+#inputrow{
+    background-color: aquamarine;
+}
+
+#mathprompt{
+    font-size: 38;
+    color: blue;
+}
+
+#responseCorrect{
+    font-size: 20;
+    color: chartreuse; 
+}
+
+#responseInCorrect{
+    font-size: 20;
+    color: crimson; 
+}
+
+#counter{
+    color:fuchsia
+}
+
+body{
+   background-color: cadetblue; 
+}
